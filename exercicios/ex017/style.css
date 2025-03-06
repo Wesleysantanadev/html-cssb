@@ -1,0 +1,21 @@
+body{
+    background-image: linear-gradient(to left, blueviolet, rgb(88, 27, 145), rgb(38, 12, 63) );
+    font-family: monospace, sans-serif;
+    /*
+    Medidas absolutas
+        cm, mm, in, px, pt, pc
+    Medidas relativas
+        em, ex, rem, vw, vh, %
+
+    16px geralmente é igual a 1em
+    */
+    font-size: 0.9em;
+}
+Main{
+    background-color: rgb(255, 255, 255);
+    width: 900px;
+    height: 305px;
+    padding: 5px;
+    margin: auto;
+    border-radius: 50px;
+}

@@ -1,0 +1,22 @@
+@charset "utf-8";
+body{
+    font: normal 16px monospace black;
+}
+div{
+    display: inline-block;
+    background-color: rgba(100, 100, 100, 0.493);
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+div:hover{
+    background-color: rgb(117, 44, 111);
+}
+div > p{
+    display: none;
+}
+div:hover > p{
+    display: block;
+    color: blueviolet;
+    background-color: black;
+}

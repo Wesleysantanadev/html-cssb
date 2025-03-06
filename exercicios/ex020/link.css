@@ -1,0 +1,16 @@
+@charset "utf-8";
+body{
+    font-family: monospace, Arial, Helvetica, sans-serif;
+}
+ul{
+    background-color: lightgray;
+    border-radius: 10px;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    background-color: rgb(255, 255, 255);
+}

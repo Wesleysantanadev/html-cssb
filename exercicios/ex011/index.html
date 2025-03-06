@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em html5</title>
+</head>
+<body>
+    <h1>Vamos aprender a colocar imagens nos sites</h1>
+    <p>Imagens que se adaptam a janela ou ao dispositivo</p>
+    <h1>Imagens Dinâmicas</h1>
+    <picture>
+        <source media="(max-width:500px )" srcset="imagens/paisagem-300.jpeg" type="image/jpeg">
+        <source media="(max-width:950px )" srcset="imagens/paisagem-700.jpeg" type="image/jpeg">
+        <img src="imagens/pexels-photo-440731.jpeg" alt="Paisagem full">
+    </picture>
+
+    <h1>Audios</h1>
+    <pre>
+    <p>Vamos aprender a colocar audios dentro do site em html5</p>
+    <audio preload="none" controls loop>
+        <source src="midia/Soundstatues_-_Amnesia.mp3" type="audio/mpeg">
+    </audio>
+    <h1>Videos</h1>
+    <video controls autoplay>
+    <source src="midia/paisagens lindas _ música para relaxar _shorts _nature _natureza(720P_HD).mp4" type="video/mp4">
+    </video>
+    </pre>
+</body>
+</html>
