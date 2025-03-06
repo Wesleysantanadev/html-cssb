@@ -3,4 +3,4 @@
 
 Estou aprendendo a gerenciar os meus repositorios no github, no momento estou fazendo minha primeira modificação.
 
-<a href="https://wesleysantanadev.github.io/html-cssb/desafios/desafio10">executar o desafio pagedroid</a>
+<a href="https://wesleysantanadev.github.io/html-cssb/Desafios/Desafio10/pagedroid.html">executar o desafio pagedroid</a>
