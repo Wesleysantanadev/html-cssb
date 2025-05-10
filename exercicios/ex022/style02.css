@@ -1,0 +1,7 @@
+@charset "utf-8";
+
+body{
+    background-image: url(https://images.pexels.com/photos/31861423/pexels-photo-31861423/free-photo-of-sunset-silhouette-by-the-ocean.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1);
+    background-size: 100px 100px;
+    background-repeat: no-repeat;
+}
